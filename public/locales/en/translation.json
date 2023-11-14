@@ -1,5 +1,8 @@
 {
   "Test example": "Test example",
   "Language": "English",
-  "Page not found": "Page not found"
+  "Page not found": "Page not found",
+  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
+  "Refresh the page": "Refresh the page",
+  "trow error": "trow error"
 }
