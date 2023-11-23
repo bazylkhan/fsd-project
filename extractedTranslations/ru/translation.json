@@ -1,8 +1,10 @@
 {
-  "About page": "About page",
-  "Language": "Language",
-  "Main page": "Main page",
-  "Page not found": "Page not found",
+  "About": "О сайте",
+  "About page": "О странице",
+  "Language": "Язык",
+  "Main": "Главная",
+  "Main page": "Главная страница",
+  "Page not found": "Страница не найдена",
   "Refresh the page": "Обновть страницу",
   "Unexpected error occurred": "Произошла непредвиденная ошибка",
   "trow error": "trow error"

@@ -2,7 +2,9 @@
   "Test example": "Test example",
   "Language": "English",
   "Page not found": "Page not found",
-  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
+  "Unexpected error occurred": "Unexpected error occurred",
   "Refresh the page": "Refresh the page",
-  "trow error": "trow error"
+  "trow error": "trow error",
+  "Main": "Main",
+  "About": "About"
 }
